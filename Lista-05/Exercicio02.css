@@ -1,0 +1,11 @@
+a{
+    color: chartreuse;
+}
+
+a:hover{
+    color:deeppink
+}
+
+a:visited{
+    color:aqua; 
+}
